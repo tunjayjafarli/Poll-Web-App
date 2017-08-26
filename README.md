@@ -1,2 +1,1 @@
-# PollWebApp
-A Django Application
+# Poll Web App
